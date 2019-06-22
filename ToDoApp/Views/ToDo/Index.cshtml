@@ -1,0 +1,36 @@
+﻿@model ToDoApp.DAL.Entity.User
+    
+@{
+    ViewBag.Title = "ToDo";
+}
+@using ToDoApp.Business.Comparers
+@{
+    DateComparer dc = new DateComparer();
+}
+<h2>ToDoes</h2>
+
+<p>    
+    @Html.ActionLink("Back", "Index", "Account")|
+    @Html.ActionLink("CreateNew", "Add", "ToDo")
+</p>
+
+
+<table>
+
+@foreach (var item in Model.ToDoes.OrderBy((t => t.Date.ToUniversalTime()),dc))
+{
+    <tr>
+        <td>            
+            @Html.ActionLink(item.Name, "Details", "ToDo", new RouteValueDictionary(new { id=item.ID }), null)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem=>item.Date)
+         </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", "ToDo", new RouteValueDictionary(new { id=item.ID }),null)|
+            @Html.ActionLink("Delete", "Delete", "ToDo", new { id=item.ID }, null) 
+        </td>
+    </tr>
+}
+
+</table>

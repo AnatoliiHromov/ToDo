@@ -1,0 +1,90 @@
+﻿@model ToDoApp.Models.DetailsToDoModel
+    @{
+        ViewBag.Title = "Details";
+    }
+<h2>@Html.DisplayFor(model => model.ToDo.Name)</h2>
+<div class="details">
+<p>
+    @Html.ActionLink("Back", "Index", "ToDo")|
+    @Html.ActionLink("Edit", "Edit", new { id = @Model.ToDo.ID }) 
+</p>
+    @Scripts.Render("~/Scripts/Indexmap.js")
+
+    <style>
+        #map {
+            height: 500px;
+            width: 500px;
+        }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBfE9C9ECA1TLb-wh_cjWP9MD_hCDQLKYc&signed_in=true&callback=initMap"
+        async defer> </script>
+    <div id="map"></div>
+    @Html.HiddenFor(r=>r.Lat)
+    @Html.HiddenFor(r => r.Long)
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.ToDo.Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ToDo.Name)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.ToDo.Description)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ToDo.Description)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.ToDo.State)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ToDo.State)
+    </div>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.ToDo.Date)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ToDo.Date)
+    </div>
+     
+    @foreach (var item in Model.SubTodoes) { 
+              <fieldset class ="stodoes">
+                  <legend class="stlegend">@Html.DisplayNameFor(m=>item.Name)
+                @Html.ActionLink("Edit", "Edit", "SubToDo", new RouteValueDictionary(new { id=item.ID }),null)|
+                 @Html.ActionLink("Delete", "DeleteST", "ToDo", new { id=item.ID, tid=@Model.TID }, null) 
+                  </legend>
+              <div class="display-field">
+                  @Html.DisplayFor(model => item.Name)
+              </div>
+
+              <div class="display-label">
+                  @Html.DisplayNameFor(model => item.Description)
+              </div>
+              <div class="display-field">
+                  @Html.DisplayFor(model => item.Description)
+              </div>
+
+              <div class="display-label">
+                  @Html.DisplayNameFor(model=>item.State)
+              </div>
+              <div class="display-field">
+                  @Html.DisplayFor(model=>item.State)  
+               </div>
+              </fieldset>
+              }
+    
+    @using (Html.BeginForm("AddSub", "ToDo", FormMethod.Post, new { enctype = "multipart/form-data"}))
+{    
+    @Html.HiddenFor(m=>m.TID)
+    <text>Name: </text> @Html.TextBoxFor(r => r.Name)
+    @Html.ValidationMessageFor(r => r.Name)<br />  
+    <text>Description: </text> @Html.TextBoxFor(r => r.Description)
+    @Html.ValidationMessageFor(r => r.Description)<br />  
+    <text>State: </text>@Html.DropDownList("State")<br />
+    
+    <input type="submit" value="Add" />  
+}
+</div>
+
+

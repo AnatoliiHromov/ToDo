@@ -1,0 +1,46 @@
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\ToDoApp.DAL.dll.config
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\ToDoApp.DAL.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\ToDoApp.DAL.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.pdb
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\ToDoApp.DAL.dll.config
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\ToDoApp.DAL.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\ToDoApp.DAL.pdb
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\EntityFramework.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\EntityFramework.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.pdb
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.csprojResolveAssemblyReference.cache
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\ToDoApp.DAL.dll.config
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\ToDoApp.DAL.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\ToDoApp.DAL.pdb
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\EntityFramework.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\EntityFramework.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.csprojResolveAssemblyReference.cache
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.csproj.CoreCompileInputs.cache
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.csproj.CopyComplete
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.pdb
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\ToDoApp.DAL.dll.config
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\ToDoApp.DAL.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\ToDoApp.DAL.pdb
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\EntityFramework.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\EntityFramework.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.Migrations.some.resources
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.csproj.GenerateResource.cache
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.csproj.CoreCompileInputs.cache
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.csproj.CopyComplete
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.pdb
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.DAL\obj\Debug\ToDoApp.DAL.csprojAssemblyReference.cache

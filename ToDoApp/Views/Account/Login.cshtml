@@ -1,0 +1,31 @@
+﻿@model ToDoApp.Models.AuthModel
+
+@{
+    ViewBag.Title = "Log in";
+}
+
+
+<hgroup class="title">
+    <h1>@ViewBag.Title</h1>
+</hgroup>
+
+ @if (ToDoApp.Helpers.AuthHelper.IsAuthenticated(Context))
+    {
+        @Html.ActionLink("Выйти", "LogOff", "Account")<br />
+        @Html.ActionLink("AddToDo", "AddToDo", "ToDo")<br />
+        @Html.ActionLink("Home", "Index", "ToDo")<br />
+    }
+    else
+    {
+        using (Html.BeginForm("LogIn", "Account", FormMethod.Post))
+        {
+            @Html.TextBoxFor(l => l.Email)
+            @Html.ValidationMessageFor(l => l.Email)<br />
+            @Html.PasswordFor(l => l.Password)
+            @Html.ValidationMessageFor(l => l.Password)<br />
+            <input type="submit" value="Login" />
+             @Html.ActionLink("Forgot Password?", "ForgotPassword", "Account")<br />
+        }
+        
+    }
+

@@ -1,0 +1,40 @@
+﻿@model ToDoApp.Models.AddToDoModel
+@{
+    ViewBag.title = "Edit";
+}
+<h2>Edit @Html.DisplayFor(model => model.Name)</h2>
+<p>
+    @Html.ActionLink("Back", "Index", "ToDo")
+</p>
+@Scripts.Render("~/Scripts/Edit.js")
+
+    <style>
+      #map {
+        height: 500px;
+        width:500px;
+      }
+    </style>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBfE9C9ECA1TLb-wh_cjWP9MD_hCDQLKYc&signed_in=true&callback=initMap"
+        async defer> </script>
+    <div id="map"></div>
+  <div>
+    Addres: 
+     @Html.TextBoxFor(r=>r.address)
+    <input type="button" value="Encode" onclick="codeAddress()">
+    <input type="button" value="Delete" onclick="deleteMarkers()">
+  </div>
+@using (Html.BeginForm("Edit", "ToDo", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{            
+    @Html.HiddenFor(r=>r.Lat)
+    @Html.HiddenFor(r => r.Long)
+    <text>Name: </text> @Html.TextBoxFor(r => r.Name)
+    @Html.ValidationMessageFor(r => r.Name)<br />  
+    <text>Description: </text> @Html.TextBoxFor(r => r.Description)
+    @Html.ValidationMessageFor(r => r.Description)<br />  
+    <text>State: </text>@Html.DropDownList("State")<br />
+    @Html.CheckBoxFor(r => r.IsPublic)<text> Is Public</text><br />
+    @Html.EditorFor(m => m.Date,"{0:yyyy.MM.dd H:mm:ss}")    
+    @Html.ValidationMessageFor(r => r.Date)<br />  
+    <p>   
+    <input type="submit" value="Edit" />  @Html.ActionLink("Cancel", "Index", "ToDo") </p>
+}

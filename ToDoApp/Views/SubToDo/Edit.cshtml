@@ -1,0 +1,20 @@
+﻿@model ToDoApp.Models.sToDoModel
+@{
+    ViewBag.title = "Edit";
+}
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+       
+    <h2>Edit @Html.DisplayFor(model => model.Name)</h2>   
+
+    @Html.HiddenFor(m=>m.TID)
+    <text>Name: </text> @Html.TextBoxFor(r => r.Name)
+    @Html.ValidationMessageFor(r => r.Name)<br />  
+    <text>Description: </text> @Html.TextBoxFor(r => r.Description)
+    @Html.ValidationMessageFor(r => r.Description)<br />  
+    <text>State: </text>@Html.DropDownList("State")<br />    
+         <p><input type="submit" value="Edit" />     
+    @Html.ActionLink("Cancel", "Details", "ToDo", new RouteValueDictionary(new { id=Model.TID }), null)
+    </p>
+}

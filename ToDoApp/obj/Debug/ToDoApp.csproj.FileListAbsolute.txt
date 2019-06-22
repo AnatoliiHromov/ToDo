@@ -1,0 +1,431 @@
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\ToDoApp.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\ToDoApp.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\Antlr3.Runtime.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.Core.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\EntityFramework.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\Microsoft.Data.Edm.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\Microsoft.Data.OData.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\Newtonsoft.Json.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\System.Spatial.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Helpers.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Http.OData.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Mvc.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Optimization.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Razor.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\ToDoApp.Business.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\ToDoApp.DAL.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\WebGrease.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\WebMatrix.Data.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\WebMatrix.WebData.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\ToDoApp.Business.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\ToDoApp.DAL.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\EntityFramework.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\Newtonsoft.Json.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Helpers.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Mvc.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Razor.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\WebMatrix.Data.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\WebMatrix.WebData.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.Core.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Http.OData.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\Microsoft.Data.Edm.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\Microsoft.Data.OData.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\System.Spatial.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\de\System.Spatial.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\es\System.Spatial.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\fr\System.Spatial.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\it\System.Spatial.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\ja\System.Spatial.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\ko\System.Spatial.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\ru\System.Spatial.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\NLog.config
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\Ninject.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\Ninject.Web.Common.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\NLog.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\Ninject.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\Ninject.Web.Common.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\NLog.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\bin\en\ToDoApp.resources.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.Resurces.Resource.en.resources
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp\obj\Debug\en\ToDoApp.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\NLog.config
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\ToDoApp.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\ToDoApp.pdb
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\en\ToDoApp.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Antlr3.Runtime.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.AspNet.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.Core.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OAuth.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OpenId.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\EntityFramework.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\EntityFramework.SqlServer.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Microsoft.Data.Edm.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Microsoft.Data.OData.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Microsoft.Web.Infrastructure.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Newtonsoft.Json.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Ninject.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Ninject.Web.Common.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\NLog.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\System.Spatial.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Helpers.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Http.OData.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Mvc.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Optimization.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Razor.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.Deployment.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.Razor.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\ToDoApp.Business.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\ToDoApp.DAL.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\WebGrease.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\WebMatrix.Data.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\WebMatrix.WebData.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\ToDoApp.Business.pdb
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\ToDoApp.DAL.pdb
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\EntityFramework.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\EntityFramework.SqlServer.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Ninject.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Ninject.Web.Common.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\NLog.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Newtonsoft.Json.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Helpers.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Mvc.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Razor.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.Deployment.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.Razor.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\WebMatrix.Data.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\WebMatrix.WebData.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.AspNet.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.Core.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OAuth.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OpenId.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\System.Web.Http.OData.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Microsoft.Data.Edm.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Microsoft.Data.OData.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\System.Spatial.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\de\Microsoft.Data.Edm.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\es\Microsoft.Data.Edm.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\it\Microsoft.Data.Edm.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\de\Microsoft.Data.OData.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\es\Microsoft.Data.OData.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\fr\Microsoft.Data.OData.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\it\Microsoft.Data.OData.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\ja\Microsoft.Data.OData.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\ko\Microsoft.Data.OData.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\ru\Microsoft.Data.OData.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\de\System.Spatial.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\es\System.Spatial.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\fr\System.Spatial.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\it\System.Spatial.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\ja\System.Spatial.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\ko\System.Spatial.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\ru\System.Spatial.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\zh-Hans\System.Spatial.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\zh-Hant\System.Spatial.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csprojResolveAssemblyReference.cache
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.Resurces.Resource.en.resources
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.GenerateResource.Cache
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\obj\Debug\en\ToDoApp.resources.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Common.Logging.Core.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Common.Logging.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Quartz.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Common.Logging.pdb
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Common.Logging.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Common.Logging.Core.pdb
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Common.Logging.Core.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Quartz.pdb
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp\bin\Quartz.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\NLog.config
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ToDoApp.dll.config
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ToDoApp.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ToDoApp.pdb
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\en\ToDoApp.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Antlr3.Runtime.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Common.Logging.Core.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Common.Logging.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.AspNet.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.Core.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OAuth.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OpenId.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\EntityFramework.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\EntityFramework.SqlServer.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Microsoft.Data.Edm.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Microsoft.Data.OData.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Newtonsoft.Json.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Ninject.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Ninject.Web.Common.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\NLog.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Net.Http.Formatting.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Spatial.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Helpers.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Http.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Http.OData.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Http.WebHost.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Mvc.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Optimization.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Razor.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.Deployment.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.Razor.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ToDoApp.Business.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ToDoApp.DAL.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\WebGrease.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\WebMatrix.Data.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\WebMatrix.WebData.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Quartz.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ToDoApp.Business.pdb
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ToDoApp.DAL.pdb
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ToDoApp.DAL.dll.config
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Common.Logging.pdb
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Common.Logging.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Common.Logging.Core.pdb
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Common.Logging.Core.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\EntityFramework.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\EntityFramework.SqlServer.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Ninject.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Ninject.Web.Common.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\NLog.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Newtonsoft.Json.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Net.Http.Formatting.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Helpers.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Http.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Http.WebHost.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Mvc.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Razor.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.Deployment.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.Razor.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\WebMatrix.Data.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\WebMatrix.WebData.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.AspNet.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.Core.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OAuth.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OpenId.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Http.OData.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Microsoft.Data.Edm.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Microsoft.Data.OData.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Spatial.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Quartz.pdb
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Quartz.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\de\Microsoft.Data.OData.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\es\Microsoft.Data.OData.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\it\Microsoft.Data.OData.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\de\System.Spatial.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\es\System.Spatial.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\fr\System.Spatial.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\it\System.Spatial.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ja\System.Spatial.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ko\System.Spatial.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ru\System.Spatial.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\zh-Hans\System.Spatial.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\zh-Hant\System.Spatial.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csprojResolveAssemblyReference.cache
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.Resurces.Resource.en.resources
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.GenerateResource.cache
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CoreCompileInputs.cache
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\obj\Debug\en\ToDoApp.resources.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CopyComplete
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\NLog.config
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ToDoApp.dll.config
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ToDoApp.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ToDoApp.pdb
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\en\ToDoApp.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Antlr3.Runtime.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Common.Logging.Core.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Common.Logging.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.AspNet.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.Core.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OAuth.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OpenId.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\EntityFramework.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\EntityFramework.SqlServer.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Microsoft.Data.Edm.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Microsoft.Data.OData.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Newtonsoft.Json.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Ninject.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Ninject.Web.Common.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\NLog.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Net.Http.Formatting.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Spatial.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Helpers.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Http.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Http.OData.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Http.WebHost.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Mvc.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Optimization.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Razor.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.Deployment.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.Razor.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ToDoApp.Business.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ToDoApp.DAL.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\WebGrease.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\WebMatrix.Data.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\WebMatrix.WebData.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Quartz.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ToDoApp.Business.pdb
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ToDoApp.DAL.pdb
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ToDoApp.DAL.dll.config
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Common.Logging.pdb
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Common.Logging.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Common.Logging.Core.pdb
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Common.Logging.Core.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\EntityFramework.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\EntityFramework.SqlServer.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Ninject.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Ninject.Web.Common.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\NLog.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Newtonsoft.Json.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Net.Http.Formatting.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Helpers.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Http.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Http.WebHost.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Mvc.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Razor.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.Deployment.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.WebPages.Razor.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\WebMatrix.Data.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\WebMatrix.WebData.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.AspNet.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.Core.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OAuth.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OpenId.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Web.Http.OData.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Microsoft.Data.Edm.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Microsoft.Data.OData.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\System.Spatial.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Quartz.pdb
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\Quartz.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\de\Microsoft.Data.OData.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\es\Microsoft.Data.OData.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\it\Microsoft.Data.OData.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\de\System.Spatial.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\es\System.Spatial.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\fr\System.Spatial.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\it\System.Spatial.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ja\System.Spatial.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ko\System.Spatial.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\ru\System.Spatial.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\zh-Hans\System.Spatial.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\bin\zh-Hant\System.Spatial.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csprojAssemblyReference.cache
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.Resurces.Resource.en.resources
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.GenerateResource.cache
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CoreCompileInputs.cache
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\obj\Debug\en\ToDoApp.resources.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CopyComplete
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb

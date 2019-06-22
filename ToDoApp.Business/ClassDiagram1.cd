@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ToDoApp.Business.Comparers.DateComparer" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Comparers\DateComparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ToDoApp.Business.DALManipulation.FriendsHelper">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAECAAAAAAAAAABQAAAAAACAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>DALManipulation\FriendsHelper.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="context" />
+      <Field Name="users" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ToDoApp.Business.DALManipulation.SubToDoHelper">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgASCABAAAAgAAgAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DALManipulation\SubToDoHelper.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="context" />
+      <Field Name="todoes" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ToDoApp.Business.DALManipulation.ToDoesHelper">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAAAABAQAAAAAEAAAABAAgAgACAAAAAgAAAAAAAA=</HashCode>
+      <FileName>DALManipulation\ToDoesHelper.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="context" />
+      <Field Name="users" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ToDoApp.Business.DALManipulation.UsersHelper">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAgAAAAAAAAAEAAAAAAAAAAABAAAgEAAQAIAIAgA=</HashCode>
+      <FileName>DALManipulation\UsersHelper.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="context" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ToDoApp.Business.Guest">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Guest.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="repo" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ToDoApp.Business.SignIn">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>SignIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToDoApp.Business.UTInfo">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>UTInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToDoApp.Business.Helpers.EMailSender">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Helpers\EMailSender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToDoApp.Business.Jobs.EmailSenderJob" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jobs\EmailSenderJob.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ToDoApp.Business.Jobs.EmailSenderSheduler">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jobs\EmailSenderSheduler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToDoApp.DAL.Repository">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ToDoApp.DAL.IRepository">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

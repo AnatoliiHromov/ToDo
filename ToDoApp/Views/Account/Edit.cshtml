@@ -1,0 +1,54 @@
+﻿@model ToDoApp.Models.EditUserModel
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+<p>
+    @Html.ActionLink("Back", "Index", "Account")
+</p>
+@Scripts.Render("~/bundles/pictureload")
+
+
+@using (Html.BeginForm("Edit", "Account", FormMethod.Post, new { enctype = "multipart/form-data"}))
+{
+    <text>Please load your photo: </text>
+    <label >
+        <img  id="uimg" src= "@(Url.Action("GetImg", new { path =@Model.uPhoto }))" alt="" width="150"/>    
+        <input style = "display: none" type="file" name="file" id="file-field" accept="image/*"/>
+              
+   </label>
+    @Html.ValidationMessage("file-field")<br />
+
+ 
+    <text>Name: </text> @Html.TextBoxFor(r => r.Name)
+    @Html.ValidationMessageFor(r => r.Name)<br />  
+    <text>Surname: </text> @Html.TextBoxFor(r => r.Surname)
+    @Html.ValidationMessageFor(r => r.Surname)<br />
+    <text>Second Name: </text> @Html.TextBoxFor(r => r.SecondName)
+    @Html.ValidationMessageFor(r => r.SecondName)<br />
+    <text>Comment: </text> @Html.TextBoxFor(r => r.Comment)<br />
+    <text>Phone: </text> @Html.TextBoxFor(r => r.Phone)
+    @Html.ValidationMessageFor(r => r.Phone)<br />
+    
+    <input type="submit" value="Save" />  
+}
+
+@using (Html.BeginForm("ChangePassword", "Account", FormMethod.Get, new { enctype = "multipart/form-data" }))
+{
+    <text>Old password: </text> @Html.PasswordFor(r => r.OldPassword)
+    @Html.ValidationMessageFor(r => r.OldPassword)<br />
+    <text>Password: </text> @Html.PasswordFor(r => r.Password)
+    @Html.ValidationMessageFor(r => r.Password)<br />
+    <text>Confirm password: </text> @Html.PasswordFor(r => r.DPassword)
+    @Html.ValidationMessageFor(r => r.DPassword)<br />
+    <input type="submit" value="Save" />  
+}
+
+@using (Html.BeginForm("ChangeEmail", "Account", FormMethod.Get, new { enctype = "multipart/form-data" }))
+{
+    <text>New Email: </text> @Html.TextBoxFor(r => r.NewEmail)
+    @Html.ValidationMessageFor(r => r.NewEmail)<br />
+    <input type="submit" value="Save" />  
+}

@@ -1,0 +1,40 @@
+﻿@model ToDoApp.DAL.Entity.User
+    
+@{
+    ViewBag.Title = "Account";
+}
+@using ToDoApp.Business.Comparers
+
+<h2>User</h2>
+
+
+Hello, @Html.ActionLink((Model.Name +" "+ Model.Surname) ,"Edit","Account")
+<br />
+    <img  id="uimg" src= "@(Url.Action("GetImg", "Account", new { path =@Model.uPhoto }))" alt=""  width="150"/> 
+<br />
+
+
+<h2>ToDoes</h2>
+
+<p>
+    @Html.ActionLink("See All "+@Model.ToDoesCount, "Index", "ToDo") 
+</p>
+
+
+<table>
+@foreach (var item in Model.ToDoes.Where(t=>t.State==ToDoApp.DAL.Entity.States.NotDone).OrderBy(t => t.Date, new DateComparer()).Take(5)){
+    <tr>
+        <td>            
+            @Html.ActionLink(item.Name, "Details", "ToDo", new RouteValueDictionary(new { id=item.ID }), null)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem=>item.Date)
+         </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", "ToDo", new RouteValueDictionary(new { id=item.ID }),null)|
+            @Html.ActionLink("Delete", "Delete", "ToDo", new { id=item.ID }, null) 
+        </td>
+    </tr>
+}
+
+</table>

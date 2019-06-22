@@ -1,0 +1,69 @@
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.Business\obj\Debug\ToDoApp.Business.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.Business.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.Business.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.DAL.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.DAL.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.Business\obj\Debug\ToDoApp.Business.dll
+C:\Users\Пользователь\Documents\Visual Studio 2012\Projects\ToDoApp\ToDoApp.Business\obj\Debug\ToDoApp.Business.pdb
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.Business.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.Business.pdb
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.DAL.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\EntityFramework.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.DAL.pdb
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\EntityFramework.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\obj\Debug\ToDoApp.Business.csprojResolveAssemblyReference.cache
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\obj\Debug\ToDoApp.Business.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\obj\Debug\ToDoApp.Business.pdb
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.Core.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Quartz.dll
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.pdb
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.Core.pdb
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.Core.xml
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Quartz.pdb
+D:\VS Projects\2012\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Quartz.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.Business.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.Business.pdb
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.Core.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Quartz.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.DAL.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\EntityFramework.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.DAL.pdb
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.DAL.dll.config
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.pdb
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.Core.pdb
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.Core.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Quartz.pdb
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Quartz.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\EntityFramework.xml
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\obj\Debug\ToDoApp.Business.csprojResolveAssemblyReference.cache
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\obj\Debug\ToDoApp.Business.csproj.CoreCompileInputs.cache
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\obj\Debug\ToDoApp.Business.csproj.CopyComplete
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\obj\Debug\ToDoApp.Business.dll
+D:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\obj\Debug\ToDoApp.Business.pdb
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.Business.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.Business.pdb
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.Core.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Quartz.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.DAL.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\EntityFramework.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.DAL.pdb
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\ToDoApp.DAL.dll.config
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.pdb
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.Core.pdb
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Common.Logging.Core.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Quartz.pdb
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\Quartz.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\bin\Debug\EntityFramework.xml
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\obj\Debug\ToDoApp.Business.csprojAssemblyReference.cache
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\obj\Debug\ToDoApp.Business.csproj.CoreCompileInputs.cache
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\obj\Debug\ToDoApp.Business.csproj.CopyComplete
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\obj\Debug\ToDoApp.Business.dll
+E:\Education\Диплом\Projects\ToDoApp\ToDoApp.Business\obj\Debug\ToDoApp.Business.pdb

@@ -1,0 +1,22 @@
+﻿@model ToDoApp.Business.Guest
+@{
+    ViewBag.Title = "ToDo template";
+}
+
+<div>In the service alredy registered @Model.UsersCount() users</div><br>
+<div>And them added @Model.ToDoesCount() todoes</div><br>
+
+ @if (ToDoApp.Helpers.AuthHelper.IsAuthenticated(Context))
+    {     
+        <div>You are already with us thanks</div><br>
+        @Html.ActionLink("Log off", "Logoff", "Account")<br />
+    }
+    else
+    {
+     <div>If you have some problem with day shedule
+        @Html.ActionLink("join us", "Register", "Account") or 
+         @Html.ActionLink("log in", "Login", "Account") 
+     </div><br>
+
+    }
+
